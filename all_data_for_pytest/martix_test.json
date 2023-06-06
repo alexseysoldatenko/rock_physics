@@ -1,0 +1,9 @@
+{
+    "type_add_tensor": "isotropic",
+    "composition_part": "matrix",
+    "k": 45,
+	"mu": 20,
+    "a1": 1,
+    "a2": 1,
+    "a3": 1
+}

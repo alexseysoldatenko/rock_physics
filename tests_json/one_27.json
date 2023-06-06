@@ -1,0 +1,28 @@
+{
+    "experiment_number": 27,
+    "experiment_type": "one",
+    "start": "2022-05-01 19:53:17.534968",
+    "duration": 23.707209,
+    "square": 0.19158930628555446,
+    "type": "one",
+    "component": [
+        0,
+        0,
+        1,
+        1
+    ],
+    "limits_tetta": [
+        [
+            0,
+            6.28,
+            0.001
+        ]
+    ],
+    "limits_phi": [
+        [
+            0,
+            3.14,
+            0.01
+        ]
+    ]
+}

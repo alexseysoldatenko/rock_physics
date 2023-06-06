@@ -1,0 +1,6 @@
+{
+    "type_add_tensor": "isotropic",
+    "composition_part": "matrix",
+    "k": 160,
+	"mu": 82
+}

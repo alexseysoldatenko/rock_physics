@@ -1,0 +1,12 @@
+{
+    "type_add_tensor": "isotropic",
+    "composition_part": "inclusion",
+    "a1": 1000,
+    "a2": 1000,
+    "a3": 1,
+    "concentration" : 0.004,
+    "k": 10,
+	"mu": 0,
+    "eulerian_angles":[[0,0,0],[0,0,0]],
+    "f" : 0.8
+}
